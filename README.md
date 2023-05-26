@@ -1,5 +1,3 @@
-Hi, I'm Josh, an IT enthusiast and influencer!
-
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshua-caines/">IT Enthusiast!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
