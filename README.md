@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshua-caines/">IT Enthusiast and Influencer!</a>😁</h1>
+<h1>Hi, I'm Josh, an <a href="https://www.youtube.com/@LearnTechJosh/videos">IT Enthusiast and Influencer!</a>😁</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
